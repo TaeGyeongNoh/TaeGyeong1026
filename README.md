@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TaeGyeong1026)](https://github.com/TaeGyeong1026/github-readme-stats)
 <!--
 **TaeGyeong1026/TaeGyeong1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
