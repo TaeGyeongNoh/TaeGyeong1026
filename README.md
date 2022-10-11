@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
-  ### 👋 공부중 ! 
+  2022
+  ### 👋 재직중 ~! 
 
 </div>
 
